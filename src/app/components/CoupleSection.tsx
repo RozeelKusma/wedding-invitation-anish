@@ -14,11 +14,11 @@ const CoupleSection = () => {
         <div className="flex w-full justify-center gap-4 flex-wrap">
           <div className="flex flex-col items-center justify-center">
             <Image src={ganesh} alt="ganesh" width={400} />
-            <div className="md:text-2xl text-xl">Sagar Malla Thakuri</div>
+            <div className="md:text-2xl text-xl">Anish Dahal</div>
           </div>
           <div className="flex flex-col items-center">
             <Image src={ganesh} alt="ganesh" width={400} />
-            <div className="md:text-2xl text-xl">Smarika Shahi</div>
+            <div className="md:text-2xl text-xl">Junu Twayana</div>
           </div>
         </div>
       </div>

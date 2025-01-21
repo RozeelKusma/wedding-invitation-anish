@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from "react";
 
 const CountdownTimer: React.FC = () => {
-  const targetDate = new Date("2025-01-17T00:00:00").getTime(); // Convert target date to timestamp
+  const targetDate = new Date("2025-02-07T00:00:00").getTime(); // Convert target date to timestamp
 
   const calculateTimeLeft = () => {
     const now = new Date().getTime(); // Get current timestamp

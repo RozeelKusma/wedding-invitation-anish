@@ -22,11 +22,11 @@ const DateSection = () => {
             <div className="text-2xl md:text-4xl font-allura">
               Wedding Ceremony
             </div>
-            <div className="">Magh 4, 2081 @ 8:00 AM</div>
+            <div className="">Magh 25, 2081 @ 8:00 AM</div>
             <div className="">At</div>
-            <div className="">Sunrise Banquet, Basundhara</div>
+            <div className="">Hotel Bhadgaon, Bhaktapur</div>
             <a
-              href="https://maps.app.goo.gl/UoezSZD1v6wo2NtJA"
+              href="https://maps.app.goo.gl/2JxCdnbAQuq9LUpb6"
               className="px-5 py-2 bg-[#ffe5e5] rounded-md"
               target="_blank"
             >
@@ -35,11 +35,11 @@ const DateSection = () => {
           </div>
           <div className="bg-slate-50 rounded-md shadow-md p-5 flex flex-col gap-5 justify-center text-center items-center min-w-[286px]">
             <div className="text-2xl md:text-4xl font-allura">Party</div>
-            <div className="">Magh 6, 2081 @ 2:00 PM</div>
+            <div className="">Magh 27, 2081 @ 2:00 PM</div>
             <div className="">At</div>
-            <div className="">Bhaktapur Banquet, Bhaktapur</div>
+            <div className="">Mega Event Venue, Kalanki</div>
             <a
-              href="https://maps.app.goo.gl/5yozpSkBrMUYCqnJ8"
+              href="https://maps.app.goo.gl/ChTU88cM3sBfbE2J7"
               className="px-5 py-2 bg-[#ffe5e5] rounded-md"
               target="_blank"
             >
@@ -51,14 +51,17 @@ const DateSection = () => {
         <div className="flex xl:text-6xl text-xl">Have Something to say??</div>
         <div className="bg-slate-50 rounded-md shadow-md p-5 flex flex-col gap-5 justify-center text-center items-center">
           Call Us
+          <a href="tel:+977-9841667554" className="text-[#B70B9D]">
+            +977-9841667554
+          </a>
+          <a href="tel:+977-9864333603" className="text-[#B70B9D]">
+            +977-9864333603
+          </a>
           <a href="tel:+977-9851126723" className="text-[#B70B9D]">
             +977-9851126723
           </a>
-          <a href="tel:+977-9841849958" className="text-[#B70B9D]">
-            +977-9841849958
-          </a>
-          <a href="tel:+977-9860907481" className="text-[#B70B9D]">
-            +977-9860907481
+          <a href="tel:+977-9841338454" className="text-[#B70B9D]">
+            +977-9841338454
           </a>
         </div>
       </div>
