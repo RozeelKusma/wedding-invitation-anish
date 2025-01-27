@@ -8,7 +8,7 @@ const DateSection = () => {
     <div className="md:px-10 xl:px-[200px] px-5 w-full font-poppins text-[#B70B9D] flex flex-col items-center justify-center h-full">
       <div className="flex flex-col xl:px-[80px] xl:py-[58px] w-[90%] px-[30px] py-[50px] gap-5 items-center bg-[#f1cfe9]">
         <Image src={divider} alt="divider" className="w-full md:my-10" />
-        <div className="xl:text-6xl text-2xl font-allura">
+        <div className="xl:text-6xl text-2xl font-allura text-center">
           We&apos;re Getting Married
         </div>
         <div className="text-gray-600 text-center">
