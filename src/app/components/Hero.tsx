@@ -17,7 +17,6 @@ const Hero = () => {
               className="max-h-[300px] md:max-h-[500px] w-auto rounded-md"
             />
           </div>
-
           <div className=" py-4 ">2081/10/25</div>
         </div>
       </div>
