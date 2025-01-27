@@ -18,7 +18,6 @@ const CoupleSection = () => {
             alt="ganesh"
             className="max-h-[500px] w-auto rounded-md"
           />
-
           <Image
             src={img5}
             alt="ganesh"
