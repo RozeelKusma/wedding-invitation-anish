@@ -22,7 +22,7 @@ const DateSection = () => {
             <div className="text-2xl md:text-4xl font-allura">
               Wedding Ceremony
             </div>
-            <div className="">Magh 25, 2081 @ 8:00 AM</div>
+            <div className="">Magh 25, 2081 @ 10:00 AM</div>
             <div className="">At</div>
             <div className="">Hotel Bhadgaon, Bhaktapur</div>
             <a
@@ -35,7 +35,7 @@ const DateSection = () => {
           </div>
           <div className="bg-slate-50 rounded-md shadow-md p-5 flex flex-col gap-5 justify-center text-center items-center min-w-[286px]">
             <div className="text-2xl md:text-4xl font-allura">Party</div>
-            <div className="">Magh 27, 2081 @ 2:00 PM</div>
+            <div className="">Magh 27, 2081 @ 4:00 PM</div>
             <div className="">At</div>
             <div className="">Mega Event Venue, Kalanki</div>
             <a
