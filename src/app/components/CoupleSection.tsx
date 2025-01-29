@@ -24,7 +24,7 @@ const CoupleSection = () => {
             className="max-h-[500px] w-auto rounded-md"
           />
         </div>
-        <div className="sm:text-3xl md:text-2xl text-center xl:leading-[44px] font-allura mt-4 xl:text-[40px]">
+        <div className="text-[30px] sm:text-[40px] text-center xl:leading-[44px] font-allura mt-4 xl:text-[40px]">
           Anish Dahal <br /> Weds <br /> Junu Twayana
         </div>
       </div>

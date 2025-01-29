@@ -9,7 +9,7 @@ const Hero = () => {
       <div className="bg-[#f1cfe971] absolute  h-screen w-full max-w-screen flex flex-col items-center font-allura ">
         <Image src={ganesh} alt="ganesh" height={200} />
         <div className={`flex flex-col items-center text-5xl md:text-8xl`}>
-          <div className=" ">Our Wedding</div>
+          <div className=" ">You&apos;re Invited</div>
           <div className="flex gap-4 flex-wrap">
             <Image
               src={img4}

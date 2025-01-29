@@ -15,7 +15,7 @@ const DateSection = () => {
           With great joy and happiness, we are excited to announce our wedding
           celebration, which will take place on:
         </div>
-        <div className="font-allura text-2xl md:text-6xl">Magh 4, 2081</div>
+        <div className="font-allura text-2xl md:text-6xl">Magh 25, 2081</div>
         <CountdownTimer />
         <div className="flex justify-center gap-5 flex-wrap">
           <div className="bg-slate-50 rounded-md shadow-md p-5 flex flex-col gap-5 justify-center text-center items-center min-w-[286px]">
@@ -49,8 +49,8 @@ const DateSection = () => {
         </div>
         <Image src={divider} alt="divider" className="w-full md:my-10" />
         <div className="flex xl:text-6xl text-xl">Have Something to say??</div>
-        <div className="bg-slate-50 rounded-md shadow-md p-5 flex flex-col gap-5 justify-center text-center items-center">
-          Call Us
+        <div className="bg-slate-50 rounded-md shadow-md p-5 flex flex-col gap-5 justify-center text-center items-center min-w-[286px]">
+          <div className="text-2xl md:text-4xl">Call Us</div>
           <a href="tel:+977-9841667554" className="text-[#B70B9D]">
             +977-9841667554
           </a>
@@ -60,8 +60,8 @@ const DateSection = () => {
           <a href="tel:+977-9851126723" className="text-[#B70B9D]">
             +977-9851126723
           </a>
-          <a href="tel:+977-9841338454" className="text-[#B70B9D]">
-            +977-9841338454
+          <a href="tel:+977-9849338454" className="text-[#B70B9D]">
+            +977-9849338454
           </a>
         </div>
       </div>
